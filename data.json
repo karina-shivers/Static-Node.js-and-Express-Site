@@ -1,2 +1,23 @@
-
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "A program that displays a randomly selected quote each time the user clicks a button.",
+            "technologies": [
+                "JavaScript",
+                "Loops",
+                "Conditionals",
+                "Object Literals"
+            ],
+              "live_link": " " ,
+            "github_link": " ",
+            "image_urls": [
+                "  ",
+                "  ",
+                "  ",
+                " "
+            ]
+        },
+              
       
