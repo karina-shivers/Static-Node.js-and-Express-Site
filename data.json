@@ -19,5 +19,24 @@
                 " "
             ]
         },
+         {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "App which displays several \\“pages\\” of student data that the user can easily navigate, filter, and view.",
+            "technologies": [
+                "JavaScript",
+                "Pagination",
+                "DOM",
+                "Search Function"
+            ],
+            "live_link": " ",
+            "github_link": " ",
+            "image_urls": [
+                " ",
+                "  ",
+                "  ",
+                "  "
+            ]
+        },
               
       
