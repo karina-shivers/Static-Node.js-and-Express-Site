@@ -37,6 +37,24 @@
                 "  ",
                 "  "
             ]
+        }, 
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "Enhancing a form so that it\\’s engaging, interactive, and easy to use",
+            "technologies": [
+                "JavaScript",
+                "Regular Expressions",
+                "String Manipulation",
+                "Form Validation"
+            ],"live_link": ",
+            "github_link": " ",
+            "image_urls": [
+                " ",
+                " ",
+                "  ",
+                " "
+            ]
         },
               
       
