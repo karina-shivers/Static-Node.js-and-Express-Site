@@ -73,5 +73,27 @@
                 " ",
                 " "
             ]
-        },  
+        },   {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "An employee directory created by communicating with a third-party API",
+            "technologies": [
+                "JavaScript",
+                "API Requests",
+                "HTTP",
+                "AJAX",
+                "Fetch API",
+                "Asynchronous Programming"
+            ],
+            "live_link": " ",
+            "github_link": " ",
+            "image_urls": [
+                " ",
+                " ",
+                " ",
+                " "
+            ]
+        }
+    ]
+}
       
